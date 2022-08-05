@@ -1,4 +1,4 @@
-# Development for fun
+# Development for fun :v:
 
 Hi all here I just create a simple web site that vulnerable to Authentication bypass and Unrestricted file upload.
 For this all process exploitation need to be automated using python3.
